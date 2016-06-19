@@ -1,0 +1,5922 @@
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'.LM6RPg' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'.LM6RP' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css '.LM6RPg' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css '.LM6RPg' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'.LM6RPg' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css '.LM6RPg' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css '.LM6RP' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css '.LM6RPg' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css '.LM6RPg' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css 'input[class=LM6RP]' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css '.LM6RPg' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css '#edition_des' not found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Gogle')]' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Class 'gsfi' not found in Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'k' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+name 'btnK' not found in  Cricinfo HTML page
+
+
+css'#edition_desk' found in  Cricinfo HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+css'#edition_desk' found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css'input[class=LM6RPg]' found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+css'#edition_desk' found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+css 'input[class=LM6RP]' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+css'#edition_desk' found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Flipkart HTML page
+
+
+Id 'k' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Flipkart HTML page
+
+
+name 'btnK' not found in  Flipkart HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/div/input' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'._3QmGBy' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[1]/div/ul/li[3]' found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'._3QmGBy' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/a/img' found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'._3QmGBy' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/div/input' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'._3QmGBy' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/div/input' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[1]/ul/li[5]/a' found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div' found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form' found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/div' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/div' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/input[1]' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/input[1]' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[1]/div[1]/div/h1/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/input[1]' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/input[1]' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/header/div[2]/div/div[2]/div/form/input[1]' not found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/div[1]/div[3]/div[2]/div/div/div/div/div[1]/a/img' found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/input[@class='LM6RPg']' found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/div[1]/div[3]/div[2]/div/div/div/div/div[1]/a/img' found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' found in Flipkart12 HTML page
+
+
+Id 'container' found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Id 'sb_ifc0' not found in  Flipkart12 HTML page
+
+
+Xpath './/input[@class='LM6RPg']' found in  Flipkart12 HTML page
+
+
+Xpath './/*[@id='container']/div/div/div[1]/div[3]/div[2]/div/div/div/div/div[1]/img' not found in  Flipkart12 HTML page
+
+
+name 'otracker' found in  Flipkart12 HTML page
+
+
+css'.LM6RPg' found in  Flipkart12 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'container' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/input[@class='LM6RPg']' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/*[@id='nav-search']/form/div[2]/div/input' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+name 'otracker' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+css '.LM6RPg' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'container' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/input[@class='LM6RPg']' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/*[@id='twotabsearchtextbox']' found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+name 'otracker' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+css '.LM6RPg' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/input[@class='LM6RPg']' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='ap_email']' found in  dmazon Sign In HTML page
+
+
+name 'otracker' not found in  dmazon Sign In HTML page
+
+
+css '.LM6RPg' not found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/input[@class='LM6RPg']' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='a-page']/div[1]/div[3]/div/div[2]/form/div/div/div/div[4]' not found in  dmazon Sign In HTML page
+
+
+name 'otracker' not found in  dmazon Sign In HTML page
+
+
+css '.LM6RPg' not found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='ap_password']' found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='a-page']/div[1]/div[3]/div/div[2]/form/div/div/div/div[4]' not found in  dmazon Sign In HTML page
+
+
+name 'otracker' not found in  dmazon Sign In HTML page
+
+
+css '.LM6RPg' not found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='ap_password']' found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='ap_password']' found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='a-page']/div[1]/div[3]/div/div[2]/form/div/div' not found in  dmazon Sign In HTML page
+
+
+name 'otracker' not found in  dmazon Sign In HTML page
+
+
+css '.LM6RPg' not found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='ap_password']' found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='a-page']/div[1]/div[3]/div/div[2]/form' found in  dmazon Sign In HTML page
+
+
+name 'otracker' not found in  dmazon Sign In HTML page
+
+
+css '.LM6RPg' not found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='ap_password']' found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='a-page']/div[1]/div[3]/div/div[2]/form/div' not found in  dmazon Sign In HTML page
+
+
+name 'otracker' not found in  dmazon Sign In HTML page
+
+
+css '.LM6RPg' not found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in dmazon Sign In HTML page
+
+
+Id 'container' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Id 'sb_ifc0' not found in  dmazon Sign In HTML page
+
+
+Xpath './/*[@id='ap_password']' found in  dmazon Sign In HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' found in  dmazon Sign In HTML page
+
+
+name 'otracker' not found in  dmazon Sign In HTML page
+
+
+css '.LM6RPg' not found in  dmazon Sign In HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'container' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/*[@id='nav-search']/form/div[2]' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+name 'otracker' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+css '.LM6RPg' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'container' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Id 'sb_ifc0' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/*[@id='nav-search']/form' found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+name 'otracker' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+css '.LM6RPg' not found in  Online Shopping  Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' not found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]/div/div[1]/h2/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]/div/div[1]' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'gsfi' not found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[3]/div/div[1]/h2/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]/div/div[1]/h6/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[7]/div' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath '//*[contains(text(),'Google')]' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]/div/div[1]/h2/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='react-headlines']/ul/li[2]/div/div[1]/h2/a' not found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[text()='New to Amazon?']' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/input[@value='Sign in']' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/input[@value='Sign in']' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/input[@value='Sign in']' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/input[@value='Sign in']' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+name 'otracker' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+css '.LM6RPg' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]' found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Class 'sub-headline' found in Cricinfo1 HTML page
+
+
+Id 'k' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1 HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1 HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1 HTML page
+
+
+name 'btnK' not found in  Cricinfo1 HTML page
+
+
+Class '_3zQrPt required-tracking' not found in World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'container' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+
+
+Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
+

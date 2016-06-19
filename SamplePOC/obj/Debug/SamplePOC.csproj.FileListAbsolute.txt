@@ -1,0 +1,17 @@
+E:\SampeProgram\SamplePOC\bin\Debug\SamplePOC.exe.config
+E:\SampeProgram\SamplePOC\bin\Debug\SamplePOC.exe
+E:\SampeProgram\SamplePOC\bin\Debug\SamplePOC.pdb
+E:\SampeProgram\SamplePOC\bin\Debug\HtmlAgilityPack.dll
+E:\SampeProgram\SamplePOC\bin\Debug\HtmlAgilityPack.pdb
+E:\SampeProgram\SamplePOC\bin\Debug\HtmlAgilityPack.xml
+E:\SampeProgram\SamplePOC\obj\Debug\SamplePOC.csprojResolveAssemblyReference.cache
+E:\SampeProgram\SamplePOC\obj\Debug\SamplePOC.exe
+E:\SampeProgram\SamplePOC\obj\Debug\SamplePOC.pdb
+E:\SampeProgram\SamplePOC\bin\Debug\GuiMap\Cricinfo.xml
+E:\SampeProgram\SamplePOC\bin\Debug\GuiMap\Flipkart.xml
+E:\SampeProgram\SamplePOC\bin\Debug\Fizzler.dll
+E:\SampeProgram\SamplePOC\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+E:\SampeProgram\SamplePOC\bin\Debug\Fizzler.xml
+E:\SampeProgram\SamplePOC\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+E:\SampeProgram\SamplePOC\bin\Debug\Html\Cricinfo1.html
+E:\SampeProgram\SamplePOC\bin\Debug\Html\World’s Largest Professional Network _ LinkedIn.htm

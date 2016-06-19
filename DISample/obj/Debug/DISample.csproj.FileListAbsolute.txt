@@ -1,0 +1,4 @@
+E:\SampeProgram\DISample\bin\Debug\DISample.dll
+E:\SampeProgram\DISample\bin\Debug\DISample.pdb
+E:\SampeProgram\DISample\obj\Debug\DISample.dll
+E:\SampeProgram\DISample\obj\Debug\DISample.pdb

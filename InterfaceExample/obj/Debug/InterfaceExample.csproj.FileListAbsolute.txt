@@ -1,0 +1,6 @@
+E:\SampeProgram\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+E:\SampeProgram\InterfaceExample\obj\Debug\InterfaceExample.csprojResolveAssemblyReference.cache
+E:\SampeProgram\InterfaceExample\bin\Debug\InterfaceExample.exe
+E:\SampeProgram\InterfaceExample\bin\Debug\InterfaceExample.pdb
+E:\SampeProgram\InterfaceExample\obj\Debug\InterfaceExample.exe
+E:\SampeProgram\InterfaceExample\obj\Debug\InterfaceExample.pdb

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\bin\Debug\SimpleTest.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-05-17" time="00:11:56">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Raviteja\Downloads\NUnit-2.6.3\NUnit-2.6.3\bin" machine-name="RAVIPC" user="seetha" user-domain="RAVIPC" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\bin\Debug\SimpleTest.dll" executed="True" result="Failure" success="False" time="209.110" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SimpleTest" executed="True" result="Failure" success="False" time="209.102" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestScript" executed="True" result="Failure" success="False" time="209.099" asserts="0">
+            <results>
+              <test-case name="SimpleTest.TestScript.Sample" executed="True" result="Error" success="False" time="209.080" asserts="0">
+                <failure>
+                  <message><![CDATA[OpenQA.Selenium.NoSuchElementException : Unable to locate element: {"method":"id","selector":"lst-ib"}]]></message>
+                  <stack-trace><![CDATA[at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+at OpenQA.Selenium.By.<>c__DisplayClass2.<Id>b__0(ISearchContext context)
+at OpenQA.Selenium.By.FindElement(ISearchContext context)
+at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+at SimpleTest.Class1.FindById(String id) in c:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\Class1.cs:line 53
+at SimpleTest.Home.get_Edit() in c:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\Class1.cs:line 63
+at SimpleTest.TestScript.Sample() in c:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\TestScript.cs:line 16
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

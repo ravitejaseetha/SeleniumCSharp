@@ -1,0 +1,44 @@
+﻿<ObjectRepository>
+  <FeatureSet name='LoginPage'>
+    <Element type='' name='Tutorials'>
+      <id>container</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='TextBox' name='References'>
+      <id>sb_ifc0</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='SearchBox'>
+      <id>sb_ifc0</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Search'>
+      <name>otracker</name>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='xSearch'>
+      <xpath>.//*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]</xpath>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='divSearch'>
+      <css>.LM6RPg</css>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='classSearch'>
+      <class>_3zQrPt required-tracking</class>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='linktext'>
+      <xpath>.//input[@value='Sign in']</xpath>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='linktext'>
+      <linktext>Gmail</linktext>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Partiallinktext'>
+      <partiallinktext>click here</partiallinktext>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+  </FeatureSet>
+</ObjectRepository>

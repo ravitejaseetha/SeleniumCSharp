@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WebDriverIEDriver</id>
+    <version>2.45.0.0</version>
+    <title>WebDriver IEDriver</title>
+    <authors>selenium</authors>
+    <owners>selenium</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://code.google.com/p/selenium/downloads/list</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package provides the WebDriver IEDriverServer.exe for allowing WebDriver to use Internet Explorer for testing.</description>
+    <summary>WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more. InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol for IE.</summary>
+    <releaseNotes>Initial repackaging of http://selenium-release.storage.googleapis.com/2.45/IEDriverServer_Win32_2.45.0.zip for distribution via NuGet</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>ie internetexplorer iexplore selenium webdriver testing web iedriver internetexplorerdriver</tags>
+  </metadata>
+</package>

@@ -1,0 +1,44 @@
+﻿<ObjectRepository>
+  <FeatureSet name='LoginPage'>
+    <Element type='' name='Tutorials'>
+      <id>k</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='TextBox' name='References'>
+      <id>sb_ifc0</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='SearchBox'>
+      <id>sb_ifc00</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Search'>
+      <name>btnK</name>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='xSearch'>
+      <xpath>.//*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img</xpath>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='divSearch'>
+      <xpath>.//*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a</xpath>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='classSearch'>
+      <class>sub-headline</class>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='linktext'>
+      <linktext>Screen-reader users, click here to turn off Google Instant.</linktext>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='linktext'>
+      <linktext>Gmail</linktext>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Partiallinktext'>
+      <partiallinktext>click here</partiallinktext>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+  </FeatureSet>
+</ObjectRepository>

@@ -1,0 +1,10 @@
+C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.exe.config
+C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.exe
+C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.pdb
+C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.exe
+C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.pdb
+E:\SampeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.exe.config
+E:\SampeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.exe
+E:\SampeProgram\EmployeeProgram\bin\Debug\EmployeeProgram.pdb
+E:\SampeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.exe
+E:\SampeProgram\EmployeeProgram\obj\Debug\EmployeeProgram.pdb

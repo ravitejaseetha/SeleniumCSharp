@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1002]C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\bin\Debug\SimpleTest.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\bin\Debug\SimpleTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\bin\Debug\SimpleTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]SimpleTest" Expanded="true" />
+    <Node UniqueName="[0-1000]SimpleTest.TestScript" Expanded="true" />
+    <Node UniqueName="[0-1001]SimpleTest.TestScript.Sample" Checked="true" />
+  </Nodes>
+</VisualState>
