@@ -131,8 +131,8 @@ namespace SamplePoc
                         for (int xpath = 0; xpath < elemList3.Count; xpath++)
                         {
                             string xXpath = elemList3[xpath].InnerXml;
+                            //Xpath Navigator
                             XPathNavigator navigator = document.CreateNavigator();
-
                             var nodes = navigator.Select(xXpath);
                             var val1 = document.DocumentNode.SelectSingleNode(xXpath);
                             if (val1 != null)
