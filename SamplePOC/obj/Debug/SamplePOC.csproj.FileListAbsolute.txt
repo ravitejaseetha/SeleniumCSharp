@@ -14,4 +14,8 @@ E:\SampeProgram\SamplePOC\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
 E:\SampeProgram\SamplePOC\bin\Debug\Fizzler.xml
 E:\SampeProgram\SamplePOC\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
 E:\SampeProgram\SamplePOC\bin\Debug\Html\Cricinfo1.html
-E:\SampeProgram\SamplePOC\bin\Debug\Html\World’s Largest Professional Network _ LinkedIn.htm
+E:\SampeProgram\SamplePOC\bin\Debug\TestData\FilesData.xls
+E:\SampeProgram\SamplePOC\bin\Debug\Excel.dll
+E:\SampeProgram\SamplePOC\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\SampeProgram\SamplePOC\bin\Debug\Excel.pdb
+E:\SampeProgram\SamplePOC\bin\Debug\Html\FlipHome.html

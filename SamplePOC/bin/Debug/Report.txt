@@ -5920,3 +5920,69 @@ Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTM
 
 Id 'sb_ifc0' not found in  World’s Largest Professional Network _ LinkedIn HTML page
 
+
+Class 'sub-headline' found in Cricinfo1.html HTML page
+
+
+Id 'k' not found in  Cricinfo1.html HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1.html HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1.html HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1.html HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1.html HTML page
+
+
+name 'btnK' not found in  Cricinfo1.html HTML page
+
+
+Class 'sub-headline' found in Cricinfo1.html HTML page
+
+
+Id 'k' not found in  Cricinfo1.html HTML page
+
+
+Id 'sb_ifc0' not found in  Cricinfo1.html HTML page
+
+
+Id 'sb_ifc00' not found in  Cricinfo1.html HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[2]/ul/li[1]/div[1]/div/picture/a/img' found in  Cricinfo1.html HTML page
+
+
+Xpath './/*[@id='viewport']/div[8]/div[2]/div[2]/section[3]/ul/li[2]/div/div[1]/h2/a' found in  Cricinfo1.html HTML page
+
+
+name 'btnK' not found in  Cricinfo1.html HTML page
+
+
+Class '_3zQrPt required-tracking' not found in FlipHome.h HTML page
+
+
+Id 'container' not found in  FlipHome.html HTML page
+
+
+Id 'sb_ifc0' not found in  FlipHome.html HTML page
+
+
+Id 'sb_ifc0' not found in  FlipHome.html HTML page
+
+
+Xpath './/*[@id='pagekey-uno-reg-guest-home']/div[1]/div/form/input[6]' not found in  FlipHome.html HTML page
+
+
+Xpath './/input[@value='Sign in']' found in  FlipHome.html HTML page
+
+
+name 'otracker' not found in  FlipHome.html HTML page
+
+
+css'.LM6RPg' found in  FlipHome.html HTML page
+
