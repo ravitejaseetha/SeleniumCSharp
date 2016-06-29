@@ -128,10 +128,11 @@ namespace SamplePOC
             for (int file = 1; file <= fileCount; file++)
             {
                 xml.Load(string.Format("{0}\\{1}", fileDir, ReadData(file, "FileName")));
-                XmlNodeList xnList = xml.SelectNodes("/FeatureSet[@name='SearchPage']");
+                XmlNodeList xnList = xml.SelectNodes("/ObjectRepository/FeatureSet[@name='LoginPage']");
                 HtmlDocument document = new HtmlDocument();
                 document.Load(string.Format("{0}\\{1}", htmlDir, ReadDataList("HtmlName")[htmlVal]));
                 var htmlName = ReadDataList("HtmlName")[htmlVal];
+                //var node = xml.ChildNodes;
                 XmlNodeList elemList = xml.GetElementsByTagName("id");
                 XmlNodeList elemList1 = xml.GetElementsByTagName("class");
                 XmlNodeList elemList2 = xml.GetElementsByTagName("name");

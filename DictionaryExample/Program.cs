@@ -10,96 +10,148 @@ namespace DictionaryExample
     {
         static void Main(string[] args)
         {
+            Dictionary<int, string> dict = new Dictionary<int, string>();
+            dict.Add(23, "abc");
+            dict.Add(24, "xyz");
+
+            foreach (KeyValuePair<int, string> val in dict)
+            {
+                Console.WriteLine("{0},{1}", val.Key, val.Value);
+
+            }
+
+
+            string[] ab = new string[3];
+            ab[0] = "array1";
+            ab[1] = "array2";
+            ab[2] = "array3";
+
+            Dictionary<string, string> ar = ab.ToDictionary(key => key, value => value);
+
+            foreach (var x in ar)
+            {
+                Console.WriteLine("{0},{1}", x.Key, x.Value);
+            }
+
+            var hashset = new HashSet<string>(ab);
+
+            foreach (var y in hashset)
+            {
+                Console.WriteLine(y);
+            }
+
+
+
             Customer c1 = new Customer()
             {
                 ID = 23,
                 Name = "Ravi",
-                Salary = 50000
+                Salary = 2000
             };
+
 
             Customer c2 = new Customer()
             {
                 ID = 24,
                 Name = "Teja",
-                Salary = 40000
-            
+                Salary = 4000
             };
 
-            //Converting array to dictionary
 
-            Customer[] customers = new Customer[3];
-            customers[0] = c1;
-            customers[1] = c2;
-            
-
-           Dictionary<int,Customer> dict =  customers.ToDictionary(custo => custo.ID, custo => custo);
-
-            foreach(KeyValuePair<int,Customer> x in dict)
-            {
-                Customer c = x.Value;
-                Console.WriteLine(c.ID + c.Name + c.Salary);
-            } 
-
-            //Converting list to Dictionary
-            List<Customer> custDiction = new List<Customer>();
-            custDiction.Add(c1);
-            custDiction.Add(c2);
-
-            Dictionary<int, Customer> xy = custDiction.ToDictionary(cu => cu.ID, cu => cu);
- 
             Dictionary<int, Customer> cust = new Dictionary<int, Customer>();
             cust.Add(c1.ID, c1);
             cust.Add(c2.ID, c2);
 
-            //An item with same key will throw a run time exception
-            //cust.Add(c2.ID, c2);
+            cust.Select(x => new { x.Key,x.Value }).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value.ID + x.Value.Name + x.Value.Salary));
 
 
-            //Count
-            //The value inside the count is predicate
-            Console.WriteLine("Total Count" + cust.Count(kvp => kvp.Value.Salary > 40000));
+            Dictionary<string, Dictionary<int, string>> diction = new Dictionary<string, Dictionary<int, string>>();
+            Dictionary<int, string> dict1 = new Dictionary<int, string>();
+            dict1.Add(23, "Male");
+            diction.Add("Ravi", dict1);
+            
+            dict1 = new Dictionary<int, string>();
+            dict1.Add(24, "Female");
 
-           // cust.Remove(23);
-          //  cust.Clear();
-
-            if(cust.ContainsKey(245))
+            
+            diction.Add("Deepika", dict1);
+            int count = diction.Count;
+            for (int i = 0; i < count;i++)
             {
-                Customer cu = cust[245];
+                Console.WriteLine(diction.Keys.ElementAt(i));
+                Dictionary<int, string> dict12 = diction.Values.ElementAt(i);
+                dict12.Select(x => new { x.Key, x.Value }).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value));
+            }
+               
+            
+            //diction.Select(x => new { x.Key, x.Value }).ToList().ForEach(x => Console.WriteLine(x.Key + x.Value));
+            
+
+
+            var names = from i in cust
+                        where i.Value.Salary > 2000
+                        select i.Value.ID;
+
+            foreach (var xy in names)
+            {
+                Console.WriteLine("Keys" + xy);
             }
 
-            if (!cust.ContainsKey(c2.ID))
+
+            cust.Where(x => x.Value.Salary > 1000).Select(x => new { x.Value.ID }).ToList().ForEach(x => Console.WriteLine("Single line" + x.ID));
+            cust.Select(x => new { x.Value.ID }).ToList().ForEach(x => Console.WriteLine(x.ID));
+            //foreach(var z in names1)
+            //{
+            //    Console.WriteLine("Lambda expression"+z);
+            //}
+
+            Dictionary<int, string> dictionary = new Dictionary<int, string>();
+
+            dictionary.Add(100, "abc"); dictionary.Add(200, "xyz");
+
+            // new is used to select multiple values i.e, key and value in select clause
+            var linq = from ik in dictionary
+                       where ik.Key > 10
+                       select new { ik.Value, ik.Key };
+
+            foreach (var sa in linq)
             {
-                cust.Add(c2.ID, c2);
+                Console.WriteLine("Key {0} and value {1} using linq", sa.Key, sa.Value);
             }
 
-            //Try Get Value
-            Customer cust1;
-            if(cust.TryGetValue(230,out cust1))
+            // Select single value(eihter key or value) this returns IEnumerable<string> which is nothing but read only suitable to iterate through collection
+            // and cannot modify
+
+            IEnumerable<string> linq1 = from ik in dictionary
+                                        where ik.Key > 100
+                                        select ik.Value;
+
+            foreach (var xyz in linq1)
             {
-                Console.WriteLine("{0},{1},{2}", cust1.ID, cust1.Name, cust1.Salary);
-            }
-            else
-            {
-                Console.WriteLine("Key not found");
+                Console.WriteLine("Only value using linq " + xyz);
             }
 
+            //Now Convert dictionary to list using lambda expressions with select multiple values and foreach
+            dictionary.Where(x => x.Key > 10).Select(x => new { x.Key, x.Value }).ToList().ForEach(x => Console.WriteLine("With select and selecting multiple values {0} {1}", x.Key, x.Value));
 
+            //Withour select and for each
+            dictionary.ToList().ForEach(x => Console.WriteLine("Without select" + x.Value));
 
-            foreach(KeyValuePair<int,Customer> val in cust)
-            {
-                Customer cus = val.Value;
-                Console.WriteLine("{0},{1},{2}",cus.ID,cus.Name,cus.Salary);
-                
-            }
+            //With where and for each
+            dictionary.Where(x => x.Key > 10).ToList().ForEach(x => Console.WriteLine("with where " + x.Value));
+
+            //With select and for each you need to use new {} in select clause in order loop the dictionary keys or values
+            dictionary.Select(x => new { x.Key }).ToList().ForEach(x => Console.WriteLine("with Select " + x.Key));
+
             Console.ReadKey();
-
-
         }
+
     }
 
     public class Customer
     {
         public int ID { get; set; }
+
         public string Name { get; set; }
 
         public int Salary { get; set; }
