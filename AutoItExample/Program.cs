@@ -24,12 +24,25 @@ namespace AutoItExample
             //Runtime run = Runtime.getRuntime();
             //Process pp = run.exec("C:\\PathToFile\\AILoginScript.exe");
 
-            AutoItX.Run("Skype.exe","C:\\Program Files (x86)\\Skype",1);
-            Thread.Sleep(10000);
-            AutoItX.Send("seetha841");
-            Thread.Sleep(2000);
-            AutoItX.Send("{TAB}");
-            Thread.Sleep(2000);
+            //AutoItX.Run("notepad.exe", "", 1);
+            //AutoItX.WinWaitActive("Untitled");
+            //AutoItX.Send("I'm in notepad I'm in notepad I'm in notepad I'm in notepad I'm in notepad");
+            //IntPtr winHandle = AutoItX.WinGetHandle("Untitled");
+            //AutoItX.WinKill(winHandle);
+
+
+            AutoItX.Run("logfile.txt", "E:\\", 1);
+            AutoItX.WinWaitActive("Untitled");
+            AutoItX.Send("I'm in notepad I'm in notepad I'm in notepad I'm in notepad I'm in notepad");
+            IntPtr winHandle = AutoItX.WinGetHandle("Untitled");
+            AutoItX.WinKill(winHandle);
+
+            //AutoItX.Run("Skype.exe","C:\\Program Files (x86)\\Skype",1);
+            //Thread.Sleep(10000);
+            //AutoItX.Send("seetha841");
+            //Thread.Sleep(2000);
+            //AutoItX.Send("{TAB}");
+            //Thread.Sleep(2000);
             AutoItX.Send("{ENTER}");
             //AutoItX.s
             Thread.Sleep(5000);

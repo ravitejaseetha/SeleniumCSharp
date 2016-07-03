@@ -62,7 +62,7 @@ namespace DictionaryExample
             cust.Add(c1.ID, c1);
             cust.Add(c2.ID, c2);
 
-            cust.Select(x => new { x.Key,x.Value }).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value.ID + x.Value.Name + x.Value.Salary));
+            cust.Select(x => new { x.Key,x.Value }).Where(x => x.Key > 23).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value.ID + x.Value.Name + x.Value.Salary));
 
 
             Dictionary<string, Dictionary<int, string>> diction = new Dictionary<string, Dictionary<int, string>>();
@@ -72,15 +72,22 @@ namespace DictionaryExample
             
             dict1 = new Dictionary<int, string>();
             dict1.Add(24, "Female");
-
-            
             diction.Add("Deepika", dict1);
+
+            //dict1.Remove(24);
             int count = diction.Count;
             for (int i = 0; i < count;i++)
             {
                 Console.WriteLine(diction.Keys.ElementAt(i));
                 Dictionary<int, string> dict12 = diction.Values.ElementAt(i);
-                dict12.Select(x => new { x.Key, x.Value }).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value));
+               // dict12.Select(x => new { x.Key, x.Value }).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value));
+                //dict12.ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value));
+
+                var li = dict12.Select(x => x.Key).ToList();
+                foreach (var li1 in li)
+                {
+                    Console.WriteLine(li1);
+                }
             }
                
             
@@ -98,7 +105,7 @@ namespace DictionaryExample
             }
 
 
-            cust.Where(x => x.Value.Salary > 1000).Select(x => new { x.Value.ID }).ToList().ForEach(x => Console.WriteLine("Single line" + x.ID));
+            cust.Where(x => x.Value.Salary > 1000).Select(x => new { x.Value.ID, x.Value.Name}).ToList().ForEach(x => Console.WriteLine("Single line" + x.ID + x.Name));
             cust.Select(x => new { x.Value.ID }).ToList().ForEach(x => Console.WriteLine(x.ID));
             //foreach(var z in names1)
             //{
