@@ -1,0 +1,6 @@
+E:\SampeProgram\ParameterTypes\bin\Debug\ParameterTypes.exe.config
+E:\SampeProgram\ParameterTypes\bin\Debug\ParameterTypes.exe
+E:\SampeProgram\ParameterTypes\bin\Debug\ParameterTypes.pdb
+E:\SampeProgram\ParameterTypes\obj\Debug\ParameterTypes.csprojResolveAssemblyReference.cache
+E:\SampeProgram\ParameterTypes\obj\Debug\ParameterTypes.exe
+E:\SampeProgram\ParameterTypes\obj\Debug\ParameterTypes.pdb

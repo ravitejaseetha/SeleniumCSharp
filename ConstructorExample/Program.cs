@@ -10,14 +10,16 @@ namespace ConstructorExample
     {
         //Default Constructor
         public string param, param1;
-        public Sample()
+        private Sample()
         {
             param = "Hello";
             param1 = "World";
         }
         //Parameterized Constructor
         public Sample(string x, string y)
+            :this()
         {
+            Console.WriteLine("new......." + param + param1);
             param = x;
             param1 = y;
         }
@@ -47,8 +49,8 @@ namespace ConstructorExample
     {
         static void Main(string[] args)
         {
-            Sample obj1 = new Sample();
-            Console.WriteLine(obj1.param + " " + obj1.param1);
+            //Sample obj1 = new Sample();
+            //Console.WriteLine(obj1.param + " " + obj1.param1);
 
             Sample obj2 = new Sample("good", "morning");
             Console.WriteLine(obj2.param + " " + obj2.param1);
@@ -56,7 +58,7 @@ namespace ConstructorExample
             Sample obj3 = new Sample(obj2);
             Console.WriteLine(obj3.param + " " + obj3.param1);
 
-            Sample obj4 = new Sample();
+            //Sample obj4 = new Sample();
             Console.ReadKey();
 
 
