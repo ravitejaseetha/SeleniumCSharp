@@ -1,0 +1,11 @@
+E:\SampeProgram\PDFReader\obj\Debug\PDFReader.csprojResolveAssemblyReference.cache
+E:\SampeProgram\PDFReader\bin\Debug\PDFReader.exe.config
+E:\SampeProgram\PDFReader\bin\Debug\PDFReader.exe
+E:\SampeProgram\PDFReader\bin\Debug\PDFReader.pdb
+E:\SampeProgram\PDFReader\bin\Debug\PDFOperation.dll
+E:\SampeProgram\PDFReader\bin\Debug\itextsharp.dll
+E:\SampeProgram\PDFReader\bin\Debug\PDFOperation.pdb
+E:\SampeProgram\PDFReader\bin\Debug\itextsharp.xml
+E:\SampeProgram\PDFReader\obj\Debug\PDFReader.exe
+E:\SampeProgram\PDFReader\obj\Debug\PDFReader.pdb
+E:\SampeProgram\PDFReader\bin\Debug\SautinSoft.PdfFocus.dll
