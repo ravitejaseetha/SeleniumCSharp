@@ -1,6 +1,5 @@
 E:\SampeProgram\Palindrome\bin\Debug\Palindrome.exe.config
 E:\SampeProgram\Palindrome\bin\Debug\Palindrome.exe
 E:\SampeProgram\Palindrome\bin\Debug\Palindrome.pdb
-E:\SampeProgram\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
 E:\SampeProgram\Palindrome\obj\Debug\Palindrome.exe
 E:\SampeProgram\Palindrome\obj\Debug\Palindrome.pdb

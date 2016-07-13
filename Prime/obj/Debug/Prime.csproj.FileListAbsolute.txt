@@ -1,6 +1,5 @@
 E:\SampeProgram\Prime\bin\Debug\Prime.exe.config
 E:\SampeProgram\Prime\bin\Debug\Prime.exe
 E:\SampeProgram\Prime\bin\Debug\Prime.pdb
-E:\SampeProgram\Prime\obj\Debug\Prime.csprojResolveAssemblyReference.cache
 E:\SampeProgram\Prime\obj\Debug\Prime.exe
 E:\SampeProgram\Prime\obj\Debug\Prime.pdb

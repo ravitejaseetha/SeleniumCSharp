@@ -1,6 +1,5 @@
 E:\SampeProgram\CustomException\bin\Debug\CustomException.exe.config
 E:\SampeProgram\CustomException\bin\Debug\CustomException.exe
 E:\SampeProgram\CustomException\bin\Debug\CustomException.pdb
-E:\SampeProgram\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
 E:\SampeProgram\CustomException\obj\Debug\CustomException.exe
 E:\SampeProgram\CustomException\obj\Debug\CustomException.pdb

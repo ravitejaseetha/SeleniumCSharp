@@ -1,5 +1,4 @@
 E:\SampeProgram\DISampleNew\bin\Debug\DISampleNew.exe.config
-E:\SampeProgram\DISampleNew\obj\Debug\DISampleNew.csprojResolveAssemblyReference.cache
 E:\SampeProgram\DISampleNew\bin\Debug\DISampleNew.exe
 E:\SampeProgram\DISampleNew\bin\Debug\DISampleNew.pdb
 E:\SampeProgram\DISampleNew\obj\Debug\DISampleNew.exe

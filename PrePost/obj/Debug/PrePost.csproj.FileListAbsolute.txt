@@ -1,0 +1,5 @@
+E:\SampeProgram\PrePost\bin\Debug\PrePost.exe.config
+E:\SampeProgram\PrePost\bin\Debug\PrePost.exe
+E:\SampeProgram\PrePost\bin\Debug\PrePost.pdb
+E:\SampeProgram\PrePost\obj\Debug\PrePost.exe
+E:\SampeProgram\PrePost\obj\Debug\PrePost.pdb

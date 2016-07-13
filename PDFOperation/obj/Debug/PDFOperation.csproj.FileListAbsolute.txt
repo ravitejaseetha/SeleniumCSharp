@@ -1,8 +1,8 @@
 E:\SampeProgram\PDFOperation\bin\Debug\PDFOperation.dll
 E:\SampeProgram\PDFOperation\bin\Debug\PDFOperation.pdb
-E:\SampeProgram\PDFOperation\obj\Debug\PDFOperation.csprojResolveAssemblyReference.cache
+E:\SampeProgram\PDFOperation\bin\Debug\itextsharp.dll
+E:\SampeProgram\PDFOperation\bin\Debug\SautinSoft.PdfFocus.dll
+E:\SampeProgram\PDFOperation\bin\Debug\itextsharp.xml
 E:\SampeProgram\PDFOperation\obj\Debug\PDFOperation.dll
 E:\SampeProgram\PDFOperation\obj\Debug\PDFOperation.pdb
-E:\SampeProgram\PDFOperation\bin\Debug\itextsharp.dll
-E:\SampeProgram\PDFOperation\bin\Debug\itextsharp.xml
-E:\SampeProgram\PDFOperation\bin\Debug\SautinSoft.PdfFocus.dll
+E:\SampeProgram\PDFOperation\obj\Debug\PDFOperation.csprojResolveAssemblyReference.cache

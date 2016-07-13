@@ -1,6 +1,5 @@
 E:\SampeProgram\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
 E:\SampeProgram\ExceptionHandling\bin\Debug\ExceptionHandling.exe
 E:\SampeProgram\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
-E:\SampeProgram\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
 E:\SampeProgram\ExceptionHandling\obj\Debug\ExceptionHandling.exe
 E:\SampeProgram\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,9 @@
+E:\SampeProgram\SamplePDF\bin\Debug\SamplePDF.exe.config
+E:\SampeProgram\SamplePDF\bin\Debug\SamplePDF.exe
+E:\SampeProgram\SamplePDF\bin\Debug\SamplePDF.pdb
+E:\SampeProgram\SamplePDF\obj\Debug\SamplePDF.exe
+E:\SampeProgram\SamplePDF\obj\Debug\SamplePDF.pdb
+E:\SampeProgram\SamplePDF\obj\Debug\SamplePDF.csprojResolveAssemblyReference.cache
+E:\SampeProgram\SamplePDF\bin\Debug\itextsharp.dll
+E:\SampeProgram\SamplePDF\bin\Debug\SautinSoft.PdfFocus.dll
+E:\SampeProgram\SamplePDF\bin\Debug\itextsharp.xml

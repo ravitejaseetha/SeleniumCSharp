@@ -1,8 +1,8 @@
 E:\SampeProgram\Encapsulation\bin\Debug\Encapsulation.exe.config
 E:\SampeProgram\Encapsulation\bin\Debug\Encapsulation.exe
 E:\SampeProgram\Encapsulation\bin\Debug\Encapsulation.pdb
+E:\SampeProgram\Encapsulation\bin\Debug\Factorial.exe
+E:\SampeProgram\Encapsulation\bin\Debug\Factorial.pdb
 E:\SampeProgram\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
 E:\SampeProgram\Encapsulation\obj\Debug\Encapsulation.exe
 E:\SampeProgram\Encapsulation\obj\Debug\Encapsulation.pdb
-E:\SampeProgram\Encapsulation\bin\Debug\Factorial.exe
-E:\SampeProgram\Encapsulation\bin\Debug\Factorial.pdb

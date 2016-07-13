@@ -1,12 +1,12 @@
-E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.csprojResolveAssemblyReference.cache
+E:\SampeProgram\AutoItExample\bin\Debug\chromedriver.exe
+E:\SampeProgram\AutoItExample\bin\Debug\AutoItX3.dll
 E:\SampeProgram\AutoItExample\bin\Debug\AutoItExample.exe.config
 E:\SampeProgram\AutoItExample\bin\Debug\AutoItExample.exe
 E:\SampeProgram\AutoItExample\bin\Debug\AutoItExample.pdb
 E:\SampeProgram\AutoItExample\bin\Debug\AutoItX3.Assembly.dll
+E:\SampeProgram\AutoItExample\bin\Debug\WebDriver.dll
 E:\SampeProgram\AutoItExample\bin\Debug\AutoItX3.Assembly.xml
+E:\SampeProgram\AutoItExample\bin\Debug\WebDriver.xml
 E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.exe
 E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.pdb
-E:\SampeProgram\AutoItExample\bin\Debug\chromedriver.exe
-E:\SampeProgram\AutoItExample\bin\Debug\WebDriver.dll
-E:\SampeProgram\AutoItExample\bin\Debug\WebDriver.xml
-E:\SampeProgram\AutoItExample\bin\Debug\AutoItX3.dll
+E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.csprojResolveAssemblyReference.cache

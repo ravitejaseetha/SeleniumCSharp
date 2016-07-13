@@ -3,8 +3,7 @@ E:\SampeProgram\OledbExample\bin\Debug\OledbExample.exe
 E:\SampeProgram\OledbExample\bin\Debug\OledbExample.pdb
 E:\SampeProgram\OledbExample\bin\Debug\WebDriver.dll
 E:\SampeProgram\OledbExample\bin\Debug\WebDriver.xml
-E:\SampeProgram\OledbExample\obj\Debug\OledbExample.exe
-E:\SampeProgram\OledbExample\obj\Debug\OledbExample.pdb
-E:\SampeProgram\OledbExample\obj\Debug\OledbExample.csprojResolveAssemblyReference.cache
 E:\SampeProgram\OledbExample\obj\Debug\Interop.PDFFilterLib.dll
 E:\SampeProgram\OledbExample\obj\Debug\OledbExample.csproj.ResolveComReference.cache
+E:\SampeProgram\OledbExample\obj\Debug\OledbExample.exe
+E:\SampeProgram\OledbExample\obj\Debug\OledbExample.pdb

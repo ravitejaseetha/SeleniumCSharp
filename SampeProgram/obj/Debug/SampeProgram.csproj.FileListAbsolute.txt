@@ -25,6 +25,6 @@ E:\SampeProgram\SampeProgram\bin\Debug\SampeProgram.exe
 E:\SampeProgram\SampeProgram\bin\Debug\SampeProgram.pdb
 E:\SampeProgram\SampeProgram\bin\Debug\WebDriver.dll
 E:\SampeProgram\SampeProgram\bin\Debug\WebDriver.xml
-E:\SampeProgram\SampeProgram\obj\Debug\SampeProgram.csprojResolveAssemblyReference.cache
 E:\SampeProgram\SampeProgram\obj\Debug\SampeProgram.exe
 E:\SampeProgram\SampeProgram\obj\Debug\SampeProgram.pdb
+E:\SampeProgram\SampeProgram\obj\Debug\SampeProgram.csprojResolveAssemblyReference.cache
