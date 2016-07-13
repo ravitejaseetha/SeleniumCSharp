@@ -1,0 +1,5 @@
+E:\SampeProgram\StringOperations\bin\Debug\StringOperations.exe.config
+E:\SampeProgram\StringOperations\bin\Debug\StringOperations.exe
+E:\SampeProgram\StringOperations\bin\Debug\StringOperations.pdb
+E:\SampeProgram\StringOperations\obj\Debug\StringOperations.exe
+E:\SampeProgram\StringOperations\obj\Debug\StringOperations.pdb
