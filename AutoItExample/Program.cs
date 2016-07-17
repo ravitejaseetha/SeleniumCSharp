@@ -31,7 +31,7 @@ namespace AutoItExample
             //AutoItX.WinKill(winHandle);
 
 
-            AutoItX.Run("logfile.txt", "E:\\", 1);
+            AutoItX.Run("notepad.exe", "", 1);
             AutoItX.WinWaitActive("Untitled");
             AutoItX.Send("I'm in notepad I'm in notepad I'm in notepad I'm in notepad I'm in notepad");
             IntPtr winHandle = AutoItX.WinGetHandle("Untitled");

@@ -1,0 +1,10 @@
+E:\SampeProgram\SeleniumWait\bin\Debug\SeleniumWait.exe.config
+E:\SampeProgram\SeleniumWait\bin\Debug\SeleniumWait.exe
+E:\SampeProgram\SeleniumWait\bin\Debug\SeleniumWait.pdb
+E:\SampeProgram\SeleniumWait\bin\Debug\WebDriver.dll
+E:\SampeProgram\SeleniumWait\bin\Debug\WebDriver.Support.dll
+E:\SampeProgram\SeleniumWait\bin\Debug\WebDriver.xml
+E:\SampeProgram\SeleniumWait\bin\Debug\WebDriver.Support.xml
+E:\SampeProgram\SeleniumWait\obj\Debug\SeleniumWait.csprojResolveAssemblyReference.cache
+E:\SampeProgram\SeleniumWait\obj\Debug\SeleniumWait.exe
+E:\SampeProgram\SeleniumWait\obj\Debug\SeleniumWait.pdb

@@ -1,0 +1,6 @@
+E:\SampeProgram\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+E:\SampeProgram\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+E:\SampeProgram\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+E:\SampeProgram\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+E:\SampeProgram\AnonymousMethod\obj\Debug\AnonymousMethod.pdb
+E:\SampeProgram\AnonymousMethod\obj\Debug\AnonymousMethod.csprojResolveAssemblyReference.cache
