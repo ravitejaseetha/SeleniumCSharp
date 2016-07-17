@@ -1,0 +1,6 @@
+E:\SampeProgram\LambdaExample\bin\Debug\LambdaExample.exe.config
+E:\SampeProgram\LambdaExample\bin\Debug\LambdaExample.exe
+E:\SampeProgram\LambdaExample\bin\Debug\LambdaExample.pdb
+E:\SampeProgram\LambdaExample\obj\Debug\LambdaExample.csprojResolveAssemblyReference.cache
+E:\SampeProgram\LambdaExample\obj\Debug\LambdaExample.exe
+E:\SampeProgram\LambdaExample\obj\Debug\LambdaExample.pdb

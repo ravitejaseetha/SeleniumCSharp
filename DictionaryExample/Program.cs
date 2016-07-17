@@ -62,7 +62,7 @@ namespace DictionaryExample
             cust.Add(c1.ID, c1);
             cust.Add(c2.ID, c2);
 
-            cust.Select(x => new { x.Key,x.Value }).Where(x => x.Key > 23).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value.ID + x.Value.Name + x.Value.Salary));
+            cust.Select(x => new { x.Key,x.Value }).Where((x) => x.Key > 23).ToList().ForEach(x => Console.WriteLine(x.Key + "\t" + x.Value.ID + x.Value.Name + x.Value.Salary));
 
 
             Dictionary<string, Dictionary<int, string>> diction = new Dictionary<string, Dictionary<int, string>>();
