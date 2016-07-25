@@ -22,8 +22,8 @@ C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\bin\Debug\WebDr
 C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\obj\Debug\SimpleTest.dll
 C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\obj\Debug\SimpleTest.pdb
 C:\Users\Raviteja\Downloads\SampeProgram\SampeProgram\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache
-E:\SampeProgram\SimpleTest\bin\Debug\Drivers\chromedriver.exe
 E:\SampeProgram\SimpleTest\bin\Debug\Config\TestSettings.xml
+E:\SampeProgram\SimpleTest\bin\Debug\Drivers\chromedriver.exe
 E:\SampeProgram\SimpleTest\bin\Debug\Drivers\IEDriverServer.exe
 E:\SampeProgram\SimpleTest\bin\Debug\SimpleTest.dll
 E:\SampeProgram\SimpleTest\bin\Debug\SimpleTest.pdb
@@ -31,6 +31,6 @@ E:\SampeProgram\SimpleTest\bin\Debug\nunit.framework.dll
 E:\SampeProgram\SimpleTest\bin\Debug\WebDriver.dll
 E:\SampeProgram\SimpleTest\bin\Debug\nunit.framework.xml
 E:\SampeProgram\SimpleTest\bin\Debug\WebDriver.xml
+E:\SampeProgram\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache
 E:\SampeProgram\SimpleTest\obj\Debug\SimpleTest.dll
 E:\SampeProgram\SimpleTest\obj\Debug\SimpleTest.pdb
-E:\SampeProgram\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache

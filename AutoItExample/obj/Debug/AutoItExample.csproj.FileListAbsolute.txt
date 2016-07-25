@@ -7,6 +7,6 @@ E:\SampeProgram\AutoItExample\bin\Debug\AutoItX3.Assembly.dll
 E:\SampeProgram\AutoItExample\bin\Debug\WebDriver.dll
 E:\SampeProgram\AutoItExample\bin\Debug\AutoItX3.Assembly.xml
 E:\SampeProgram\AutoItExample\bin\Debug\WebDriver.xml
+E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.csprojResolveAssemblyReference.cache
 E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.exe
 E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.pdb
-E:\SampeProgram\AutoItExample\obj\Debug\AutoItExample.csprojResolveAssemblyReference.cache

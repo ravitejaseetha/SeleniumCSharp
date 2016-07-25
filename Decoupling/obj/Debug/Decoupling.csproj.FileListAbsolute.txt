@@ -1,0 +1,6 @@
+E:\SampeProgram\Decoupling\bin\Debug\Decoupling.exe.config
+E:\SampeProgram\Decoupling\bin\Debug\Decoupling.exe
+E:\SampeProgram\Decoupling\bin\Debug\Decoupling.pdb
+E:\SampeProgram\Decoupling\obj\Debug\Decoupling.exe
+E:\SampeProgram\Decoupling\obj\Debug\Decoupling.pdb
+E:\SampeProgram\Decoupling\obj\Debug\Decoupling.csprojResolveAssemblyReference.cache
