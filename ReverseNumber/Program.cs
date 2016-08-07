@@ -10,6 +10,8 @@ namespace ReverseNumberStringRandom
     {
         static void Main(string[] args)
         {
+            //Difference between convert.tostring and tostring is .tostring throughs null reference exception and convert.tostring reutrns null
+            //if the object is null
             object o = null;
             //string s = o.ToString();
             var convertValue = Convert.ToString(o);
