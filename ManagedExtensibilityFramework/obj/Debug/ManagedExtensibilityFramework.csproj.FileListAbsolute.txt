@@ -1,6 +1,6 @@
 E:\SampeProgram\ManagedExtensibilityFramework\bin\Debug\ManagedExtensibilityFramework.exe.config
 E:\SampeProgram\ManagedExtensibilityFramework\bin\Debug\ManagedExtensibilityFramework.exe
 E:\SampeProgram\ManagedExtensibilityFramework\bin\Debug\ManagedExtensibilityFramework.pdb
-E:\SampeProgram\ManagedExtensibilityFramework\obj\Debug\ManagedExtensibilityFramework.csprojResolveAssemblyReference.cache
 E:\SampeProgram\ManagedExtensibilityFramework\obj\Debug\ManagedExtensibilityFramework.exe
 E:\SampeProgram\ManagedExtensibilityFramework\obj\Debug\ManagedExtensibilityFramework.pdb
+E:\SampeProgram\ManagedExtensibilityFramework\obj\Debug\ManagedExtensibilityFramework.csprojResolveAssemblyReference.cache

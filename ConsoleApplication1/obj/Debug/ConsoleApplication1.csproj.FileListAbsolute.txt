@@ -7,3 +7,4 @@ E:\SampeProgram\ConsoleApplication1\bin\Debug\log4net.xml
 E:\SampeProgram\ConsoleApplication1\bin\Debug\WebDriver.xml
 E:\SampeProgram\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 E:\SampeProgram\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\SampeProgram\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

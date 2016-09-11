@@ -1,6 +1,5 @@
 E:\SampeProgram\DeferredExecution\bin\Debug\DeferredExecution.exe.config
 E:\SampeProgram\DeferredExecution\bin\Debug\DeferredExecution.exe
 E:\SampeProgram\DeferredExecution\bin\Debug\DeferredExecution.pdb
-E:\SampeProgram\DeferredExecution\obj\Debug\DeferredExecution.csprojResolveAssemblyReference.cache
 E:\SampeProgram\DeferredExecution\obj\Debug\DeferredExecution.exe
 E:\SampeProgram\DeferredExecution\obj\Debug\DeferredExecution.pdb

@@ -1,5 +1,5 @@
 E:\SampeProgram\ReverseNumber\bin\Debug\ReverseNumber.exe.config
-E:\SampeProgram\ReverseNumber\obj\Debug\ReverseNumber.exe
-E:\SampeProgram\ReverseNumber\obj\Debug\ReverseNumber.pdb
 E:\SampeProgram\ReverseNumber\bin\Debug\ReverseNumber.exe
 E:\SampeProgram\ReverseNumber\bin\Debug\ReverseNumber.pdb
+E:\SampeProgram\ReverseNumber\obj\Debug\ReverseNumber.exe
+E:\SampeProgram\ReverseNumber\obj\Debug\ReverseNumber.pdb

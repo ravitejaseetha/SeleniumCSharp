@@ -59,6 +59,7 @@ namespace GenericCollection
         }
 
         [Test]
+        [Parallelizable]
         public void TC3_TestArray()
         {
             var vendorArrayCollection = vendorSample.Retrieve();

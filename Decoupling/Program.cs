@@ -9,16 +9,28 @@ namespace Decoupling
     enum Country
     {
         India,
-        Us
+        Us,
+        Base
     }
     interface IPerson
     {
         void ShowCountry();
     }
 
- 
+    class BasePerson : IPerson
+    {
+        public void SampleBase()
+        {
+            Console.WriteLine("sample base");
+        }
+
+        public void ShowCountry()
+        {
+            Console.WriteLine("sample base");
+        }
+    }
     //Concrete class
-    class IndianPerson : IPerson
+    class IndianPerson : BasePerson, IPerson
     {
 
         public void ShowCountry()
@@ -35,6 +47,8 @@ namespace Decoupling
             Console.WriteLine("Us Person");
         }
     }
+
+     
     // Middle Layer or business layer
     class PersonSupplyer
     {
@@ -48,6 +62,11 @@ namespace Decoupling
             {
                 return new UsPerson();
             }
+            else if(country == Country.Base)
+            {
+                return new BasePerson();
+                //return null;
+            }
             else
             {
                 return null;
@@ -60,7 +79,7 @@ namespace Decoupling
     {
         static void Main(string[] args)
         {
-            IPerson person = PersonSupplyer.ReturnPerson(Country.India);
+            IPerson person = PersonSupplyer.ReturnPerson(Country.Base);
             person.ShowCountry();
             Console.ReadKey();
         }

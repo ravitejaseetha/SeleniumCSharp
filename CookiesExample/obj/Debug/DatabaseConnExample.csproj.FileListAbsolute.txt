@@ -6,6 +6,5 @@ E:\SampeProgram\CookiesExample\bin\Debug\CookiesExample.exe
 E:\SampeProgram\CookiesExample\bin\Debug\CookiesExample.pdb
 E:\SampeProgram\CookiesExample\bin\Debug\WebDriver.dll
 E:\SampeProgram\CookiesExample\bin\Debug\WebDriver.xml
-E:\SampeProgram\CookiesExample\obj\Debug\DatabaseConnExample.csprojResolveAssemblyReference.cache
 E:\SampeProgram\CookiesExample\obj\Debug\CookiesExample.exe
 E:\SampeProgram\CookiesExample\obj\Debug\CookiesExample.pdb
