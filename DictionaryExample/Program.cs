@@ -147,7 +147,7 @@ namespace DictionaryExample
             //With where and for each
             dictionary.Where(x => x.Key > 10).ToList().ForEach(x => Console.WriteLine("with where " + x.Value));
 
-            //With select and for each you need to use new {} in select clause in order loop the dictionary keys or values
+            //With select and for each 
             dictionary.Select(x => new { x.Key }).ToList().ForEach(x => Console.WriteLine("with Select " + x.Key));
 
             Console.ReadKey();

@@ -93,6 +93,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAMPTest", "DAMPTest\DAMPTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx\RegEx.csproj", "{6AA537EB-1D03-4836-9E68-F3AD611794AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcepts", "CSharpConcepts\CSharpConcepts.csproj", "{9A6FE2F1-23E3-4D52-951D-FDC086428D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelExecution", "ParallelExecution\ParallelExecution.csproj", "{5A0D9EC1-3BF1-4D18-A587-20860143A176}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +283,14 @@ Global
 		{6AA537EB-1D03-4836-9E68-F3AD611794AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AA537EB-1D03-4836-9E68-F3AD611794AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AA537EB-1D03-4836-9E68-F3AD611794AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6FE2F1-23E3-4D52-951D-FDC086428D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6FE2F1-23E3-4D52-951D-FDC086428D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6FE2F1-23E3-4D52-951D-FDC086428D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6FE2F1-23E3-4D52-951D-FDC086428D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0D9EC1-3BF1-4D18-A587-20860143A176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0D9EC1-3BF1-4D18-A587-20860143A176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0D9EC1-3BF1-4D18-A587-20860143A176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0D9EC1-3BF1-4D18-A587-20860143A176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

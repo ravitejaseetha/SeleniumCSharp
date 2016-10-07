@@ -18,4 +18,3 @@ E:\SampeProgram\SamplePOC\bin\Debug\HtmlAgilityPack.pdb
 E:\SampeProgram\SamplePOC\bin\Debug\HtmlAgilityPack.xml
 E:\SampeProgram\SamplePOC\obj\Debug\SamplePOC.exe
 E:\SampeProgram\SamplePOC\obj\Debug\SamplePOC.pdb
-E:\SampeProgram\SamplePOC\obj\Debug\SamplePOC.csprojResolveAssemblyReference.cache

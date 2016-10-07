@@ -19,4 +19,3 @@ E:\SampeProgram\XMLParsing\bin\Debug\nunit.framework.xml
 E:\SampeProgram\XMLParsing\bin\Debug\WebDriver.xml
 E:\SampeProgram\XMLParsing\obj\Debug\XMLParsing.dll
 E:\SampeProgram\XMLParsing\obj\Debug\XMLParsing.pdb
-E:\SampeProgram\XMLParsing\obj\Debug\XMLParsing.csprojResolveAssemblyReference.cache
