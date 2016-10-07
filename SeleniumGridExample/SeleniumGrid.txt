@@ -1,0 +1,16 @@
+Requirements
+1)selenium-server-standalone-2.46.0
+2)chromedriver(2.9 latest)
+
+
+1)java - jar selenium-server-standalone-2.42.0.jar -role hub
+
+After executing the above step you will get nodes should register to http://192.168.0.100:4444/grid/register/ 
+
+2)java - jar selenium-server-standalone-2.42.0.jar -role webdriver -hub http://192.168.0.100:4444/grid/register/ -port 5557
+
+
+3)Like this: java -jar selenium-server-standalone-2.42.0.jar -role node -hub http://localhost:4444/grid/register -Dwebdriver.chrome.driver=c:\path\to\your\chromedriver.exe
+
+
+
