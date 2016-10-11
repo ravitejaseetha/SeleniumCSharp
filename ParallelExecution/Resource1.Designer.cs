@@ -61,11 +61,20 @@ namespace ParallelExecution {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to firefox,chrome.
+        ///   Looks up a localized string similar to chrome,firefox.
         /// </summary>
         internal static string Browser {
             get {
                 return ResourceManager.GetString("Browser", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to http://192.168.0.100:5555/wd/hub,http://192.168.0.100:5557/wd/hub.
+        /// </summary>
+        internal static string RemoteWeb {
+            get {
+                return ResourceManager.GetString("RemoteWeb", resourceCulture);
             }
         }
     }

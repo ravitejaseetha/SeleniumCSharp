@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\SampeProgram\SeleniumGridExample\bin\Debug\SeleniumGridExample.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-10-08" time="20:30:45">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Raviteja\Downloads\NUnit-2.6.3\NUnit-2.6.3\bin" machine-name="RAVIPC" user="seetha" user-domain="RAVIPC" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\SampeProgram\SeleniumGridExample\bin\Debug\SeleniumGridExample.dll" executed="True" result="Success" success="True" time="89.782" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SeleniumGridExample" executed="True" result="Success" success="True" time="89.772" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="GridTest1" executed="True" result="Success" success="True" time="45.028" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="GoogleTestGird" executed="True" result="Success" success="True" time="45.023" asserts="0">
+                <results>
+                  <test-case name="SeleniumGridExample.GridTest1.GoogleTestGird(&quot;chrome&quot;)" executed="True" result="Success" success="True" time="22.588" asserts="0" />
+                  <test-case name="SeleniumGridExample.GridTest1.GoogleTestGird(&quot;firefox&quot;)" executed="True" result="Success" success="True" time="22.403" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="GridTest2" executed="True" result="Success" success="True" time="44.738" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="GoogleTest1Grid" executed="True" result="Success" success="True" time="44.736" asserts="0">
+                <results>
+                  <test-case name="SeleniumGridExample.GridTest2.GoogleTest1Grid(&quot;chrome&quot;)" executed="True" result="Success" success="True" time="22.294" asserts="0" />
+                  <test-case name="SeleniumGridExample.GridTest2.GoogleTest1Grid(&quot;firefox&quot;)" executed="True" result="Success" success="True" time="22.433" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

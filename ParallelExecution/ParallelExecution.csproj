@@ -57,6 +57,7 @@
       <DependentUpon>Resource1.resx</DependentUpon>
     </Compile>
     <Compile Include="TestBase.cs" />
+    <Compile Include="TestWithMultipleBrowsers.cs" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />

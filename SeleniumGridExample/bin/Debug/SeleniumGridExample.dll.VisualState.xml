@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1008]E:\SampeProgram\SeleniumGridExample\bin\Debug\SeleniumGridExample.dll</TopNode>
+  <SelectedNode>[0-1008]E:\SampeProgram\SeleniumGridExample\bin\Debug\SeleniumGridExample.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1008]E:\SampeProgram\SeleniumGridExample\bin\Debug\SeleniumGridExample.dll" Expanded="true" />
+    <Node UniqueName="[0-1009]SeleniumGridExample" Expanded="true" />
+    <Node UniqueName="[0-1000]SeleniumGridExample.GridTest1" Expanded="true" />
+    <Node UniqueName="[0-1001]SeleniumGridExample.GridTest1.GoogleTestGird" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1004]SeleniumGridExample.GridTest2" Expanded="true" />
+    <Node UniqueName="[0-1005]SeleniumGridExample.GridTest2.GoogleTest1Grid" Expanded="true" Checked="true" />
+  </Nodes>
+</VisualState>

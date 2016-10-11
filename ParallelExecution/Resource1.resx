@@ -118,6 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Browser" xml:space="preserve">
-    <value>firefox,chrome</value>
+    <value>chrome,firefox</value>
+  </data>
+  <data name="RemoteWeb" xml:space="preserve">
+    <value>http://192.168.0.100:5555/wd/hub,http://192.168.0.100:5557/wd/hub</value>
   </data>
 </root>

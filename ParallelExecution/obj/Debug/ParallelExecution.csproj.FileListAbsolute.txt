@@ -9,3 +9,4 @@ E:\SampeProgram\ParallelExecution\obj\Debug\ParallelExecution.dll
 E:\SampeProgram\ParallelExecution\obj\Debug\ParallelExecution.pdb
 E:\SampeProgram\ParallelExecution\obj\Debug\ParallelExecution.Resource1.resources
 E:\SampeProgram\ParallelExecution\obj\Debug\ParallelExecution.csproj.GenerateResource.Cache
+E:\SampeProgram\ParallelExecution\obj\Debug\ParallelExecution.csprojResolveAssemblyReference.cache

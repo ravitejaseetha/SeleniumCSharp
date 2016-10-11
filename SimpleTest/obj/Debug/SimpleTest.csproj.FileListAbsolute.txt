@@ -33,3 +33,4 @@ E:\SampeProgram\SimpleTest\bin\Debug\nunit.framework.xml
 E:\SampeProgram\SimpleTest\bin\Debug\WebDriver.xml
 E:\SampeProgram\SimpleTest\obj\Debug\SimpleTest.dll
 E:\SampeProgram\SimpleTest\obj\Debug\SimpleTest.pdb
+E:\SampeProgram\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache
