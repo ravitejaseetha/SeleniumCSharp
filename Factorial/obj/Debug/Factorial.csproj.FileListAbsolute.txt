@@ -3,3 +3,4 @@ E:\SampeProgram\Factorial\bin\Debug\Factorial.exe
 E:\SampeProgram\Factorial\bin\Debug\Factorial.pdb
 E:\SampeProgram\Factorial\obj\Debug\Factorial.exe
 E:\SampeProgram\Factorial\obj\Debug\Factorial.pdb
+E:\SampeProgram\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache

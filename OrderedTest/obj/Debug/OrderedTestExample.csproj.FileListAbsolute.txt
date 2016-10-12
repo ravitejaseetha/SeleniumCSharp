@@ -7,3 +7,4 @@ E:\SampeProgram\OrderedTest\bin\Debug\nunit.framework.xml
 E:\SampeProgram\OrderedTest\bin\Debug\WebDriver.xml
 E:\SampeProgram\OrderedTest\obj\Debug\OrderedTest.dll
 E:\SampeProgram\OrderedTest\obj\Debug\OrderedTest.pdb
+E:\SampeProgram\OrderedTest\obj\Debug\OrderedTestExample.csprojResolveAssemblyReference.cache

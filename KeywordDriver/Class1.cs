@@ -41,10 +41,11 @@ namespace KeywordDriven
                 while (thedata.Read())
                 {
                     // var rt = thedata.GetValue(1).ToString();
-                    string control = thedata[0].ToString();
-                    string action = thedata[1].ToString();
-                    string valu = thedata[2].ToString();
-                   // ProcessTest(driver, control, action, valu);
+                    string locatorType = thedata[0].ToString();
+                    string locatorValue = thedata[1].ToString();
+                    string action = thedata[2].ToString();
+                    string valu = thedata[3].ToString();
+                    ProcessTest(driver, locatorType, locatorValue, action, valu);
 
                 }
                 
@@ -52,9 +53,9 @@ namespace KeywordDriven
           
         }
 
-        private void ProcessTest(IWebDriver driver, string control,string action,string valu)
+        private void ProcessTest(IWebDriver driver, string locatorType,string locatorValue,string action,string valu)
         {
-            var controlEle = GetControl(driver,control);
+            var controlEle = GetControl(driver, locatorType,locatorValue);
             ExecuteAction(controlEle,action,valu);
         }
 
@@ -70,10 +71,24 @@ namespace KeywordDriven
            }
         }
 
-        private IWebElement GetControl(IWebDriver driver, string control)
+        private IWebElement GetControl(IWebDriver driver, string locatorType,string locatorValue)
         {
-            IWebElement element = driver.FindElement(By.XPath(control));
+            IWebElement element = null;
+            switch(locatorType.ToLower())
+            {
+                case "xpath" :
+                             element  = driver.FindElement(By.XPath(locatorValue));
+                             //return element;
+                    break;
+                case "css"   :
+                             element = driver.FindElement(By.CssSelector(locatorValue));
+                    break;
+
+                    
+            }
             return element;
+            //return null;
+            
         }
     }
 }
