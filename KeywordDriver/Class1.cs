@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using System.Data.OleDb;
+//using System.Data.OleDb;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
+using System.Data.OleDb;
 
 namespace KeywordDriven
 {
@@ -83,7 +84,6 @@ namespace KeywordDriven
                 case "css"   :
                              element = driver.FindElement(By.CssSelector(locatorValue));
                     break;
-
                     
             }
             return element;

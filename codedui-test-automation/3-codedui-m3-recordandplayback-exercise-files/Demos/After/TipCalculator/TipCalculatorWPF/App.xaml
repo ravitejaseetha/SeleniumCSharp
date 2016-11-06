@@ -1,0 +1,56 @@
+﻿<Application x:Class="TipCalculator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Window1.xaml">
+    <Application.Resources>
+
+        <!--<SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="Orange" />-->
+
+        <!--brushes-->
+        <LinearGradientBrush x:Key="BlueGradientBrush"  StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="LightBlue" Offset="0" />
+            <GradientStop Color="#CCCCFF" Offset="0.5" />
+            <GradientStop Color="#FF26A5F5" Offset="1" />
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="RedGradientBrush"  StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="#FF8FA9E8" Offset="0" />
+            <GradientStop Color="#FFD9D9EF" Offset="0.3" />
+            <GradientStop Color="#FF5683D8" Offset="1" />
+        </LinearGradientBrush>
+
+        <!--controls-->
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="{StaticResource RedGradientBrush}" />
+            <Setter Property="Width" Value="100" />
+            <Setter Property="Height" Value="30" />
+            <Setter Property="Margin" Value="10" />
+        </Style>
+
+        <Style TargetType="{x:Type ComboBox}">
+            <Setter Property="Background" Value="{StaticResource RedGradientBrush}" />
+            <Setter Property="Width" Value="80" />
+            <Setter Property="Margin" Value="10" />
+        </Style>
+
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Width" Value="120" />
+            <Setter Property="Height" Value="23" />
+            <Setter Property="Margin" Value="10" />
+        </Style>
+
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="Width" Value="240" />
+            <Setter Property="Height" Value="29" />
+            <Setter Property="Margin" Value="10" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+
+
+    </Application.Resources>
+
+
+</Application>
+
+
+

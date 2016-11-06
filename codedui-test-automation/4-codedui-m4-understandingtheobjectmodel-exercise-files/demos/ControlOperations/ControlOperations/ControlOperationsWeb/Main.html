@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/jquery-2.0.1.min.js"></script>
+    <script>
+        var htmlString = "<select id='DynamicListbox' disabled='disabled'><option id='Red'>Red</option><option id='Green'>Green</option><option id='Yellow'>Yellow</option><option id='Blue'>Blue</option></select>";
+        function CreateListbox() {
+            var numIterations = 3;
+            var txtTmerCountdown = $("#txtTimerCountdown");
+            var timerID = window.setInterval(function(){
+                if(numIterations-- == 0)
+                {
+                    $("#ListArea").append(htmlString);
+                    window.clearInterval(timerID);
+                }
+                else{
+                    txtTmerCountdown.text(numIterations);
+                }
+            },1000);
+            txtTmerCountdown.text(numIterations);
+        }
+
+        function EnableListbox() {
+            var numIterations = 3;
+            var txtTmerCountdown = $("#txtTimerCountdown");
+            var timerID = window.setInterval(function () {
+                if (numIterations-- == 0) {
+                    $("#DynamicListbox").removeAttr('disabled');
+                    window.clearInterval(timerID);
+                }
+                else {
+                    txtTmerCountdown.text(numIterations);
+                }
+            },1000);
+            txtTmerCountdown.text(numIterations);
+        }
+
+        function RemoveListbox() {
+            var numIterations = 3;
+            var txtTmerCountdown = $("#txtTimerCountdown");
+            var timerID = window.setInterval(function () {
+                if (numIterations-- == 0) {
+                    $('#DynamicListbox').remove();
+                    window.clearInterval(timerID);
+                }
+                else {
+                    txtTmerCountdown.text(numIterations);
+                }
+            }, 1000);
+            txtTmerCountdown.text(numIterations);
+        }
+
+    </script>
+</head>
+<body>
+
+    <div>
+        <button id="Button1" type="button" value="button" onclick="CreateListbox();" />
+    </div>
+    <div>
+        <button id="Button2" type="button" value="button" onclick="EnableListbox();"/>
+    </div>
+    <div>
+        <button id="Button3" type="button" value="button" onclick="RemoveListbox();"/>
+    </div>
+    <div id="ListArea">
+        <div>
+            <span>Time to next action:</span><span id="txtTimerCountdown">--</span>
+        </div>
+    </div>
+</body>
+</html>

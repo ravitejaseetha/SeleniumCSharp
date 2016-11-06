@@ -1,0 +1,50 @@
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\bin\MvcMusicStore.dll.config
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\bin\MvcMusicStore.dll
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\bin\EntityFramework.dll
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\bin\EntityFramework.xml
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\dropbox\Dropbox\marcel-devries\demos\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

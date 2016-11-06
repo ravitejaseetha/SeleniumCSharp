@@ -49,7 +49,8 @@ namespace SeleniumGridExample
         public void GoogleTestGird(string browserName)
         {
             baseURL = "https://www.google.co.in/";
-            SetCapabilities(browserName);
+           // SetCapabilities(browserName);
+            Setup(browserName);
             Driver.Navigate().GoToUrl(baseURL + "/");
             Driver.FindElement(By.Id("lst-ib")).Clear();
             Driver.FindElement(By.Id("lst-ib")).SendKeys("Testing");

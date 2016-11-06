@@ -2,6 +2,6 @@ E:\SampeProgram\GenericCollection\bin\Debug\GenericCollection.dll
 E:\SampeProgram\GenericCollection\bin\Debug\GenericCollection.pdb
 E:\SampeProgram\GenericCollection\bin\Debug\nunit.framework.dll
 E:\SampeProgram\GenericCollection\bin\Debug\nunit.framework.xml
+E:\SampeProgram\GenericCollection\obj\Debug\GenericCollection.csprojResolveAssemblyReference.cache
 E:\SampeProgram\GenericCollection\obj\Debug\GenericCollection.dll
 E:\SampeProgram\GenericCollection\obj\Debug\GenericCollection.pdb
-E:\SampeProgram\GenericCollection\obj\Debug\GenericCollection.csprojResolveAssemblyReference.cache

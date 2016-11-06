@@ -1,0 +1,13 @@
+﻿<Window x:Class="ControlOperationsWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="contentArea">
+        <Button x:Name="btnCreate" AutomationProperties.AutomationId="btnCreate" Content="Create" HorizontalAlignment="Left" Margin="44,48,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button x:Name="btnEnable" AutomationProperties.AutomationId="btnEnable" Content="Enable" HorizontalAlignment="Left" Margin="44,138,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button x:Name="btnRemove" AutomationProperties.AutomationId="btnRemove" Content="Remove" HorizontalAlignment="Left" Margin="44,238,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="181,288,0,0" TextWrapping="Wrap" Text="Count down to next action:" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <TextBlock x:Name="txtCountownTimer" HorizontalAlignment="Left" Margin="405,288,0,0" TextWrapping="Wrap" Text="--" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>

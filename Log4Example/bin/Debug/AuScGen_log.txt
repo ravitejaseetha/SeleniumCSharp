@@ -1,0 +1,7 @@
+2016-10-23 23:06:25,763 Log4Example.LogClass ((null)) [DEBUG]- Inside Logger
+2016-10-23 23:07:44,985 Log4Example.LogClass ((null)) [DEBUG]- Inside Logger
+2016-10-23 23:08:55,958 Log4Example.LogClass ((null)) [DEBUG]- Inside Logger
+2016-10-23 23:09:20,814 Log4Example.LogClass ((null)) [DEBUG]- Inside Logger
+2016-10-23 23:11:09,958 Log4Example.LogClass ((null)) [DEBUG]- Inside Logger
+2016-10-23 23:14:20,243 Log4Example.LogClass ((null)) [FATAL]- Inside Logger
+2016-10-23 23:14:56,875 Log4Example.LogClass ((null)) [FATAL]- Inside Logger

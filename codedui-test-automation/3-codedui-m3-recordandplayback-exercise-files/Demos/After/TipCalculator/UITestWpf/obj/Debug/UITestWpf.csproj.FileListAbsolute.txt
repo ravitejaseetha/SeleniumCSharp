@@ -1,0 +1,4 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWpf\bin\Debug\UITestWpf.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWpf\bin\Debug\UITestWpf.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWpf\obj\Debug\UITestWpf.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWpf\obj\Debug\UITestWpf.pdb

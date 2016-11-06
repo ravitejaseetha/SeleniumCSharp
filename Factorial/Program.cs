@@ -15,6 +15,8 @@ namespace Factorial
             //int fact = GetNumber(i);
             int fact1 = GetFactorial(i);
             Console.WriteLine(fact1);
+            IEnumerable<int> ints = Enumerable.Range(1, 5);
+            int factorial = ints.Aggregate((f, s) => f * s);
             Console.ReadKey();
         }
 

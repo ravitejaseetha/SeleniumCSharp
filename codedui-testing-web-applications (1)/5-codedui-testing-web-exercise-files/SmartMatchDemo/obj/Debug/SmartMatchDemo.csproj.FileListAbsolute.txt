@@ -1,0 +1,5 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\SmartMatchDemo\bin\Debug\SmartMatchDemo.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\SmartMatchDemo\bin\Debug\SmartMatchDemo.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\SmartMatchDemo\obj\Debug\SmartMatchDemo.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\SmartMatchDemo\obj\Debug\SmartMatchDemo.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\SmartMatchDemo\obj\Debug\SmartMatchDemo.pdb

@@ -10,7 +10,8 @@ namespace Palindrome
     {
         static void Main(string[] args)
         {
-            string rev = "";
+            string rev = "auu";
+            Sample();
             Console.WriteLine("Enter string");
             string s = Console.ReadLine();
             for(int i = s.Length-1;i>=0;i--)
@@ -26,6 +27,11 @@ namespace Palindrome
                 Console.WriteLine("Not a palindrome");
             }
             Console.ReadKey();
+        }
+
+        public static void Sample()
+        {
+            Console.WriteLine("sample");
         }
     }
 }

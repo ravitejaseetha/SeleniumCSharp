@@ -1,0 +1,13 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\bin\Debug\ControlOperationsWpf.exe.config
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\bin\Debug\ControlOperationsWpf.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\bin\Debug\ControlOperationsWpf.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\ControlOperationsWpf.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\MainWindow.baml
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\MainWindow.g.cs
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\App.g.cs
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\ControlOperationsWpf_MarkupCompile.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\ControlOperationsWpf.g.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\ControlOperationsWpf.Properties.Resources.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\ControlOperationsWpf.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\ControlOperationsWpf.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWpf\obj\Debug\ControlOperationsWpf.pdb

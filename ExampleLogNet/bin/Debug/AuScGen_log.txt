@@ -1,0 +1,6 @@
+2016-10-24 07:29:13,953 ExampleLogNet.Class1 ((null)) [DEBUG]- I am in LogExample method
+2016-10-24 07:29:13,994 ExampleLogNet.Class1 ((null)) [ERROR]- Log throws error
+2016-10-24 07:29:13,995 ExampleLogNet.Class1 ((null)) [FATAL]- Log Fatal
+2016-10-24 07:30:49,590 ExampleLogNet.Class1 ((null)) [DEBUG]- I am in LogExample method
+2016-10-24 07:30:49,654 ExampleLogNet.Class1 ((null)) [ERROR]- Log throws error
+2016-10-24 07:30:49,655 ExampleLogNet.Class1 ((null)) [FATAL]- Log Fatal

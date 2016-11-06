@@ -67,7 +67,7 @@ namespace InterfaceExample
         {
             str = int.Parse(Str.ToString() + (DateTime.Today).Month.ToString());
             str1 = int.Parse(Str1.ToString() + (DateTime.Today).Month.ToString());
-
+            
             //onvert.ToInt32(string.Format("{0}{1}", a, b));
         }
 

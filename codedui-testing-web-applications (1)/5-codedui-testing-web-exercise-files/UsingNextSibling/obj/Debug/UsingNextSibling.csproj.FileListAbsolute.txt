@@ -1,0 +1,29 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\bin\Debug\UsingNextSibling.exe.config
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\bin\Debug\UsingNextSibling.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\bin\Debug\UsingNextSibling.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\MainWindow.baml
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\MainWindow.g.cs
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\App.g.cs
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\UsingNextSibling_MarkupCompile.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\UsingNextSibling.g.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\UsingNextSibling.Properties.Resources.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\UsingNextSibling.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\UsingNextSibling.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\UsingNextSibling.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\obj\Debug\UsingNextSibling.csprojResolveAssemblyReference.cache
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\bin\Debug\UsingNextSibling.exe.config
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\bin\Debug\UsingNextSibling.exe
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\bin\Debug\UsingNextSibling.pdb
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.csprojResolveAssemblyReference.cache
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\MainWindow.baml
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\MainWindow.g.cs
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\App.g.cs
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling_MarkupCompile.cache
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.g.resources
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.Properties.Resources.resources
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.csproj.GenerateResource.Cache
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.exe
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.pdb
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\bin\Debug\UsingNextSibling.exe.config
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.exe
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\obj\Debug\UsingNextSibling.pdb

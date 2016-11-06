@@ -1,0 +1,18 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\bin\Debug\continueOnError.exe.config
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\bin\Debug\continueOnError.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\bin\Debug\continueOnError.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\obj\Debug\continueOnError.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\obj\Debug\continueOnError.Form1.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\obj\Debug\continueOnError.Properties.Resources.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\obj\Debug\continueOnError.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\obj\Debug\continueOnError.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\continueOnError\obj\Debug\continueOnError.pdb
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\bin\Debug\continueOnError.exe.config
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\bin\Debug\continueOnError.exe
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\bin\Debug\continueOnError.pdb
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\obj\Debug\continueOnError.csprojResolveAssemblyReference.cache
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\obj\Debug\continueOnError.Form1.resources
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\obj\Debug\continueOnError.Properties.Resources.resources
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\obj\Debug\continueOnError.csproj.GenerateResource.Cache
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\obj\Debug\continueOnError.exe
+E:\Pluralsight\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\continueOnError\obj\Debug\continueOnError.pdb

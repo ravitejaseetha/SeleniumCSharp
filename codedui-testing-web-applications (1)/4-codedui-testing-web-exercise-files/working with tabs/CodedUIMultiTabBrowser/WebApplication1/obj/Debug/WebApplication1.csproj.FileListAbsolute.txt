@@ -1,0 +1,165 @@
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.dll.config
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.pdb
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Antlr3.Runtime.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Newtonsoft.Json.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Owin.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Helpers.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Mvc.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Optimization.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Razor.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\WebGrease.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Helpers.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Mvc.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Optimization.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Razor.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Newtonsoft.Json.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.dll.config
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Antlr3.Runtime.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Newtonsoft.Json.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Owin.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Helpers.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Mvc.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Optimization.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Razor.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebGrease.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Helpers.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Mvc.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Optimization.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Razor.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Newtonsoft.Json.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Owin.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\WebGrease.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\WebApplication1\obj\Debug\WebApplication1.pdb

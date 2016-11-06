@@ -1,0 +1,10 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjectsCodeFirst\obj\Debug\UITestAutomationPageObjectsCodeFirst.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjectsCodeFirst\bin\Debug\UITestAutomationPageObjectsCodeFirst.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjectsCodeFirst\bin\Debug\UITestAutomationPageObjectsCodeFirst.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjectsCodeFirst\obj\Debug\UITestAutomationPageObjectsCodeFirst.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjectsCodeFirst\obj\Debug\UITestAutomationPageObjectsCodeFirst.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\UITestAutomationPageObjectsCodeFirst\bin\Debug\UITestAutomationPageObjectsCodeFirst.dll
+D:\dropbox\Dropbox\marcel-devries\demos\UITestAutomationPageObjectsCodeFirst\bin\Debug\UITestAutomationPageObjectsCodeFirst.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\UITestAutomationPageObjectsCodeFirst\obj\Debug\UITestAutomationPageObjectsCodeFirst.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\demos\UITestAutomationPageObjectsCodeFirst\obj\Debug\UITestAutomationPageObjectsCodeFirst.dll
+D:\dropbox\Dropbox\marcel-devries\demos\UITestAutomationPageObjectsCodeFirst\obj\Debug\UITestAutomationPageObjectsCodeFirst.pdb

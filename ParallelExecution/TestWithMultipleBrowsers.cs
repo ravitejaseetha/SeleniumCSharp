@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
 using System;
@@ -13,6 +14,8 @@ namespace ParallelExecution
 {
     [TestFixture(typeof(FirefoxDriver))]
     [TestFixture(typeof(InternetExplorerDriver))]
+    [TestFixture(typeof(ChromeDriver))]
+    [Parallelizable(ParallelScope.Fixtures)]
     public class TestWithMultipleBrowsers<TWebDriver> where TWebDriver : IWebDriver, new()
     {
         private IWebDriver driver;
@@ -24,10 +27,11 @@ namespace ParallelExecution
         }
 
         [Test]
+        [Category("ParallelBrowsers")]
         public void GoogleTestMultiple()
         {
             driver.Navigate().GoToUrl("http://www.google.com/");
-            IWebElement query = driver.FindElement(By.Name("q"));
+            IWebElement query = driver.FindElement(By.Id("lst-ib"));
             query.SendKeys("Bread" + Keys.Enter);
 
             Thread.Sleep(2000);

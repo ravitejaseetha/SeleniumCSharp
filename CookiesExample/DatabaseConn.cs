@@ -6,11 +6,12 @@ using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Remote;
 using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
+//using //System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace DatabaseConnExample
 {
@@ -60,6 +61,28 @@ namespace DatabaseConnExample
             }
             
             comm.Connection.Close();
+
+            SqlCommand comm1 = new SqlCommand();
+            comm1.Connection = new SqlConnection("Data Source=RAVIPC\\SQLEXPRESS;" + "Initial Catalog=PTS; Trusted_Connection=Yes"); //Windows Authentication
+            string sql1 = @"select firstname from tourists";
+            comm1.CommandText = sql1;
+            comm1.Connection.Open();
+            SqlDataReader cursor1 = comm1.ExecuteReader();
+            while (cursor1.Read())
+            {
+                string username = cursor1["firstname"].ToString();
+               // string password = cursor["Password"].ToString();
+              //  driver.Navigate().GoToUrl("http://www.google.com");
+               // driver.FindElement(By.LinkText("REGISTER")).Click();
+                //driver.FindElement(By.Name("email")).SendKeys(username);
+               // driver.FindElement(By.Name("password")).SendKeys(password);
+               // driver.FindElement(By.Name("confirmPassword")).SendKeys(password);
+                StreamWriter sw = new StreamWriter(@"E:\message.txt",true);
+                sw.WriteLine(username);
+                
+                sw.Close();
+            }
+            comm1.Connection.Close();
         }
     }
 }

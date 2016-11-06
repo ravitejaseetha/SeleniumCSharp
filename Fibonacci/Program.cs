@@ -10,6 +10,9 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
+            Func<int, int> fib = null;
+            fib = (x) => x > 1 ? fib(x - 1) + fib(x - 2) : x;
+            Console.WriteLine(fib(-1));
             //Fibonacci(5);
             var val = Fibonacci(5);
             foreach (var val1 in val)

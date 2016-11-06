@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{E94CC2DF-324F-4D33-8BDB-1C99E05FF824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUIMultiTabBrowser", "CodedUIMultiTabBrowser\CodedUIMultiTabBrowser.csproj", "{6FE14B5A-A121-40F4-929D-7DF98B5CA3BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53E832D6-B9CB-47FE-8F61-99C4267084E0}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94CC2DF-324F-4D33-8BDB-1C99E05FF824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94CC2DF-324F-4D33-8BDB-1C99E05FF824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94CC2DF-324F-4D33-8BDB-1C99E05FF824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94CC2DF-324F-4D33-8BDB-1C99E05FF824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE14B5A-A121-40F4-929D-7DF98B5CA3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE14B5A-A121-40F4-929D-7DF98B5CA3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE14B5A-A121-40F4-929D-7DF98B5CA3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE14B5A-A121-40F4-929D-7DF98B5CA3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

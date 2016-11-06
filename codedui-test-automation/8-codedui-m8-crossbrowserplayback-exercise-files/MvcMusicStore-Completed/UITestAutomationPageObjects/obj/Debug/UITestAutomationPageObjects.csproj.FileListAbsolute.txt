@@ -1,0 +1,5 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.pdb

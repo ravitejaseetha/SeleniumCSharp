@@ -1,0 +1,5 @@
+E:\SampeProgram\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+E:\SampeProgram\SumOfDigits\bin\Debug\SumOfDigits.exe
+E:\SampeProgram\SumOfDigits\bin\Debug\SumOfDigits.pdb
+E:\SampeProgram\SumOfDigits\obj\Debug\SumOfDigits.exe
+E:\SampeProgram\SumOfDigits\obj\Debug\SumOfDigits.pdb

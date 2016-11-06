@@ -28,7 +28,7 @@ namespace ReverseNumberStringRandom
             //Reverse a string
             string value = Console.ReadLine();
             string[] arrValue = value.Split(' ');
-
+            var dc = value.Split(' ').Reverse();
             for (int i = arrValue.Length - 1; i >= 0; i--)
             {
                 Console.WriteLine(arrValue[i]);

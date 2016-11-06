@@ -1,0 +1,13 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\bin\Debug\TipCalculatorWinForms.exe.config
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\obj\Debug\TipCalculatorWinForms.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\obj\Debug\TipCalculatorWinForms.Form1.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\obj\Debug\TipCalculatorWinForms.Properties.Resources.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\obj\Debug\TipCalculatorWinForms.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\bin\Debug\TipCalculatorWinForms.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\bin\Debug\TipCalculatorWinForms.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\bin\Debug\TipCalculatorBL.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\bin\Debug\TipCalculatorDataAccessLayer.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\bin\Debug\TipCalculatorBL.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\bin\Debug\TipCalculatorDataAccessLayer.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\obj\Debug\TipCalculatorWinForms.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\TipCalculatorWinForms\obj\Debug\TipCalculatorWinForms.pdb

@@ -1,0 +1,5 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWeb\obj\Debug\UITestWeb.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWeb\bin\Debug\UITestWeb.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWeb\bin\Debug\UITestWeb.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWeb\obj\Debug\UITestWeb.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWeb\obj\Debug\UITestWeb.pdb

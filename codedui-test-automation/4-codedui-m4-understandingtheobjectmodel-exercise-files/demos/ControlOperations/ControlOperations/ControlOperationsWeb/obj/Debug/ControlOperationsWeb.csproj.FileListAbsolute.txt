@@ -1,0 +1,5 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWeb\bin\ControlOperationsWeb.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWeb\bin\ControlOperationsWeb.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWeb\obj\Debug\ControlOperationsWeb.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWeb\obj\Debug\ControlOperationsWeb.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWeb\obj\Debug\ControlOperationsWeb.pdb

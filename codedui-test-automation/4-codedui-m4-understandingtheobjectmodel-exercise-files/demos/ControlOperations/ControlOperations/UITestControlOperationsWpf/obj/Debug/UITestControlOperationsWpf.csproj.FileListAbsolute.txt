@@ -1,0 +1,5 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\UITestControlOperationsWpf\bin\Debug\UITestControlOperationsWpf.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\UITestControlOperationsWpf\bin\Debug\UITestControlOperationsWpf.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\UITestControlOperationsWpf\obj\Debug\UITestControlOperationsWpf.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\UITestControlOperationsWpf\obj\Debug\UITestControlOperationsWpf.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\UITestControlOperationsWpf\obj\Debug\UITestControlOperationsWpf.pdb

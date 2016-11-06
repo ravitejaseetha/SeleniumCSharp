@@ -1,0 +1,15 @@
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\bin\Debug\CodedUIMultiTabBrowser.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\bin\Debug\CodedUIMultiTabBrowser.pdb
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.csprojResolveAssemblyReference.cache
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.dll
+D:\users\marcelv.CRONOS\documents\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\bin\Debug\CodedUIMultiTabBrowser.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\bin\Debug\CodedUIMultiTabBrowser.pdb
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.dll
+D:\dropbox\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.pdb
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\bin\Debug\CodedUIMultiTabBrowser.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\bin\Debug\CodedUIMultiTabBrowser.pdb
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.dll
+C:\Users\Marcel\Dropbox\marcel-devries\demos\working with tabs\CodedUIMultiTabBrowser\CodedUIMultiTabBrowser\obj\Debug\CodedUIMultiTabBrowser.pdb

@@ -1,0 +1,10 @@
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\bin\Debug\UITestAutomation.dll
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\bin\Debug\UITestAutomation.pdb
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\obj\Debug\UITestAutomation.csprojResolveAssemblyReference.cache
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\obj\Debug\UITestAutomation.dll
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\obj\Debug\UITestAutomation.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\bin\Debug\UITestAutomation.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\bin\Debug\UITestAutomation.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\obj\Debug\UITestAutomation.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\obj\Debug\UITestAutomation.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomation\obj\Debug\UITestAutomation.pdb

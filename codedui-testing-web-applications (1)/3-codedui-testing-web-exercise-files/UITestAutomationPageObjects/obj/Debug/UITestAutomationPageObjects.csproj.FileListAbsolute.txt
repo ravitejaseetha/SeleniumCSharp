@@ -1,0 +1,15 @@
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.dll
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.pdb
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.csprojResolveAssemblyReference.cache
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.dll
+C:\Users\marcel\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.pdb
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.dll
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\UITestAutomationPageObjects\bin\Debug\UITestAutomationPageObjects.pdb
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.dll
+C:\Users\Marcel\SkyDrive\Camtasia Studio\CodedUI\Demos\MvcMusicStore-v3.0\MvcMusicStore-Completed - backup\UITestAutomationPageObjects\obj\Debug\UITestAutomationPageObjects.pdb

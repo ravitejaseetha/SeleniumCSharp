@@ -1,0 +1,9 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\bin\Debug\TestNextSiblingUIWin.exe.config
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\bin\Debug\TestNextSiblingUIWin.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\bin\Debug\TestNextSiblingUIWin.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\obj\Debug\TestNextSiblingUIWin.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\obj\Debug\TestNextSiblingUIWin.Form1.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\obj\Debug\TestNextSiblingUIWin.Properties.Resources.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\obj\Debug\TestNextSiblingUIWin.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\obj\Debug\TestNextSiblingUIWin.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUIWin\obj\Debug\TestNextSiblingUIWin.pdb

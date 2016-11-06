@@ -1,0 +1,9 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\obj\Debug\ControlOperationsWinForms.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\obj\Debug\ControlOperationsWinForms.Form1.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\obj\Debug\ControlOperationsWinForms.Properties.Resources.resources
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\obj\Debug\ControlOperationsWinForms.csproj.GenerateResource.Cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\bin\Debug\ControlOperationsWinForms.exe.config
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\bin\Debug\ControlOperationsWinForms.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\bin\Debug\ControlOperationsWinForms.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\obj\Debug\ControlOperationsWinForms.exe
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ControlOperations\ControlOperationsWinForms\obj\Debug\ControlOperationsWinForms.pdb

@@ -1,0 +1,10 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUI\bin\Debug\TestNextSiblingUI.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUI\bin\Debug\TestNextSiblingUI.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUI\obj\Debug\TestNextSiblingUI.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUI\obj\Debug\TestNextSiblingUI.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\UsingNextSibling\TestNextSiblingUI\obj\Debug\TestNextSiblingUI.csprojResolveAssemblyReference.cache
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\TestNextSiblingUI\bin\Debug\TestNextSiblingUI.dll
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\TestNextSiblingUI\bin\Debug\TestNextSiblingUI.pdb
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\TestNextSiblingUI\obj\Debug\TestNextSiblingUI.csprojResolveAssemblyReference.cache
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\TestNextSiblingUI\obj\Debug\TestNextSiblingUI.dll
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\5-codedui-testing-web-exercise-files\UsingNextSibling\TestNextSiblingUI\obj\Debug\TestNextSiblingUI.pdb

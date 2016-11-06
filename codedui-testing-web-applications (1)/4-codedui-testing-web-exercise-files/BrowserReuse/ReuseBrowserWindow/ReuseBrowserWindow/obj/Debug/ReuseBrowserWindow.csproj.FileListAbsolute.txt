@@ -1,0 +1,5 @@
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\4-codedui-testing-web-exercise-files\BrowserReuse\ReuseBrowserWindow\ReuseBrowserWindow\bin\Debug\ReuseBrowserWindow.dll
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\4-codedui-testing-web-exercise-files\BrowserReuse\ReuseBrowserWindow\ReuseBrowserWindow\bin\Debug\ReuseBrowserWindow.pdb
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\4-codedui-testing-web-exercise-files\BrowserReuse\ReuseBrowserWindow\ReuseBrowserWindow\obj\Debug\ReuseBrowserWindow.csprojResolveAssemblyReference.cache
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\4-codedui-testing-web-exercise-files\BrowserReuse\ReuseBrowserWindow\ReuseBrowserWindow\obj\Debug\ReuseBrowserWindow.dll
+C:\Users\Raviteja\Downloads\codedui-testing-web-applications (1)\4-codedui-testing-web-exercise-files\BrowserReuse\ReuseBrowserWindow\ReuseBrowserWindow\obj\Debug\ReuseBrowserWindow.pdb

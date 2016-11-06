@@ -1,0 +1,5 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ContinueOnErrorUITest\bin\Debug\ContinueOnErrorUITest.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ContinueOnErrorUITest\bin\Debug\ContinueOnErrorUITest.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ContinueOnErrorUITest\obj\Debug\ContinueOnErrorUITest.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ContinueOnErrorUITest\obj\Debug\ContinueOnErrorUITest.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\ContinueOnErrorUITest\obj\Debug\ContinueOnErrorUITest.pdb

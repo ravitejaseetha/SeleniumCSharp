@@ -1,0 +1,5 @@
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWinForms\bin\Debug\UITestWinForms.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWinForms\bin\Debug\UITestWinForms.pdb
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWinForms\obj\Debug\UITestWinForms.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWinForms\obj\Debug\UITestWinForms.dll
+D:\dropbox\Dropbox\marcel-devries\CodedUI\Demos\TipCalculator\UITestWinForms\obj\Debug\UITestWinForms.pdb

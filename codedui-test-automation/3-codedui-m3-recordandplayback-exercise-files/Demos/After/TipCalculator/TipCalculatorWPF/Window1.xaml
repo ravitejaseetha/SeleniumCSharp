@@ -1,0 +1,87 @@
+﻿<Window x:Class="TipCalculator.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tip Calculator" Height="673" Width="480" Loaded="Window_Loaded" FontSize="15" ResizeMode="CanMinimize" WindowStyle="ThreeDBorderWindow" >
+    <Window.Background>
+        <ImageBrush ImageSource="Images\wallpaper.jpg" ></ImageBrush>
+    </Window.Background>
+    <Canvas Background="#BEE2E7EB" Height="571" Width="419">
+        <Border BorderBrush="#FFDDE0F3" BorderThickness="5" CornerRadius="3" Height="571" Width="419" Canvas.Top="0"></Border>
+        <Grid Name="MainGrid" Height="540" Width="431" Canvas.Left="0" Canvas.Top="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+            </Grid.RowDefinitions>
+            
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="6,0,0,6" Grid.Row="0">
+                <Label Content="Country" Name="lblCountry" Width="170" />
+                <ComboBox Height="25" Name="cmbCountries" Width="200" SelectionChanged="cmbCountries_SelectionChanged" />
+            </StackPanel>
+            
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="6,0,0,6" Grid.Row="1">
+                <Label Content="Bill Amount" Width="170"  Name="lblBillAmount" />
+                <Label Name="lblBillAmountCurrencySymbol" Margin="0" Width="20" />
+                <TextBox Height="28" Name="txtBillAmount" Margin="0,0,0,0"  Width="80"/>
+                <Label Name="lblBillAmountHomeCurrency" Width="80" />
+            </StackPanel>
+            
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="6,0,0,6" Grid.Row="2">
+                <Label Content="Quality of Service" />
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="-55,0,0,6" Grid.Row="2">
+                    <RadioButton Name="rdbBad" GroupName="Qos" Margin="0,0,5,0" IsChecked="False">Bad</RadioButton>
+                    <RadioButton Name="rdbAverage" GroupName="Qos" Margin="0,0,5,0" IsChecked="True">Average</RadioButton>
+                    <RadioButton Name="rdbGood" GroupName="Qos" Margin="0,0,0,0" IsChecked="False">Good</RadioButton>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="6,0,0,6" Grid.Row="3">
+                <Label Content="Number of Courses" />
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="-80,0,0,6" Grid.Row="2">
+                    <RadioButton Name="rdb1NumCourses" GroupName="NumCourses" Margin="0,0,15,0" IsChecked="True">1</RadioButton>
+                    <RadioButton Name="rdb2NumCourses" GroupName="NumCourses" Margin="0,0,15,0" IsChecked="False">2</RadioButton>
+                    <RadioButton Name="rdb3NumCourses" GroupName="NumCourses" Margin="0,0,15,0" IsChecked="False">3</RadioButton>
+                    <RadioButton Name="rdb4NumCourses" GroupName="NumCourses" Margin="0,0,0,0" IsChecked="False">4</RadioButton>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="6,0,0,6" Grid.Row="4">
+                <Label Content="Number of Flies in Soup" />
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="-110,0,0,6" Grid.Row="2">
+                    <RadioButton Name="rdb0Duration" GroupName="Duration" Margin="0,0,15,0" IsChecked="True">0</RadioButton>
+                    <RadioButton Name="rdb1Duration" GroupName="Duration" Margin="0,0,15,0" IsChecked="False">1</RadioButton>
+                    <RadioButton Name="rdb2Duration" GroupName="Duration" Margin="0,0,15,0" IsChecked="False">2</RadioButton>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="6,0,0,6" Grid.Row="5">
+                <Label Content="Tip Amount" Width="170"  Name="lblTipAmount" />
+                <Label Name="lblTipAmountCurrencySymbol" Margin="0" Width="20"/>
+                <TextBox Height="28" Name="txtTipAmount" Margin="0,0,0,0" Width="80" IsReadOnly="True"/>
+                <Label Name="lblTipAmountHomeCurrency" Width="80" Margin="10,0,0,0" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="6,0,0,6" Grid.Row="6">
+                <Label Content="Total Amount" Width="170"  Name="lblTotalAmount" />
+                <Label Name="lblTotalAmountCurrencySymbol" Margin="0" Width="20"/>
+                <TextBox Height="28" Name="txtTotalAmount" Margin="0,0,0,0" Width="80" IsReadOnly="True"/>
+                <Label Name="lblTotalAmountHomeCurrency" Width="80" Margin="10,0,0,0" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.Row="7">
+                <Label Name="lblMessage" Width="400" Height="37" Margin="20,00,0,0"/>
+            </StackPanel>
+
+            <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="8">
+                <Button Name="btnCalcTip" Click="btnCalcTip_Click">Calculate Tip</Button>
+                <Button Name="btnExit" Click="btnExit_Click">Exit</Button>
+            </StackPanel>
+        </Grid>
+    </Canvas>
+</Window>
