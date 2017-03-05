@@ -5,6 +5,6 @@ E:\SampeProgram\Log4Example\bin\Debug\log4net.dll
 E:\SampeProgram\Log4Example\bin\Debug\nunit.framework.dll
 E:\SampeProgram\Log4Example\bin\Debug\log4net.xml
 E:\SampeProgram\Log4Example\bin\Debug\nunit.framework.xml
+E:\SampeProgram\Log4Example\obj\Debug\Log4Example.csprojResolveAssemblyReference.cache
 E:\SampeProgram\Log4Example\obj\Debug\Log4Example.dll
 E:\SampeProgram\Log4Example\obj\Debug\Log4Example.pdb
-E:\SampeProgram\Log4Example\obj\Debug\Log4Example.csprojResolveAssemblyReference.cache

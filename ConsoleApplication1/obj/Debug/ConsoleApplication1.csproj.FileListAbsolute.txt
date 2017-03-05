@@ -5,6 +5,5 @@ E:\SampeProgram\ConsoleApplication1\bin\Debug\log4net.dll
 E:\SampeProgram\ConsoleApplication1\bin\Debug\WebDriver.dll
 E:\SampeProgram\ConsoleApplication1\bin\Debug\log4net.xml
 E:\SampeProgram\ConsoleApplication1\bin\Debug\WebDriver.xml
-E:\SampeProgram\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 E:\SampeProgram\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 E:\SampeProgram\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

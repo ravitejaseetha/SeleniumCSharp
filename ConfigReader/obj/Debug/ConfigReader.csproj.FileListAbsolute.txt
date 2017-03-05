@@ -3,4 +3,3 @@ E:\SampeProgram\ConfigReader\bin\Debug\ConfigReader.exe
 E:\SampeProgram\ConfigReader\bin\Debug\ConfigReader.pdb
 E:\SampeProgram\ConfigReader\obj\Debug\ConfigReader.exe
 E:\SampeProgram\ConfigReader\obj\Debug\ConfigReader.pdb
-E:\SampeProgram\ConfigReader\obj\Debug\ConfigReader.csprojResolveAssemblyReference.cache

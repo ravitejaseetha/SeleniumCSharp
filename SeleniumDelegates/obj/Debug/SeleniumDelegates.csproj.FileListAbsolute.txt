@@ -1,0 +1,10 @@
+E:\SampeProgram\SeleniumDelegates\bin\Debug\SeleniumDelegates.dll
+E:\SampeProgram\SeleniumDelegates\bin\Debug\SeleniumDelegates.pdb
+E:\SampeProgram\SeleniumDelegates\bin\Debug\nunit.framework.dll
+E:\SampeProgram\SeleniumDelegates\bin\Debug\WebDriver.dll
+E:\SampeProgram\SeleniumDelegates\bin\Debug\nunit.framework.xml
+E:\SampeProgram\SeleniumDelegates\bin\Debug\WebDriver.xml
+E:\SampeProgram\SeleniumDelegates\obj\Debug\SeleniumDelegates.csprojResolveAssemblyReference.cache
+E:\SampeProgram\SeleniumDelegates\obj\Debug\SeleniumDelegates.dll
+E:\SampeProgram\SeleniumDelegates\obj\Debug\SeleniumDelegates.pdb
+E:\SampeProgram\SeleniumDelegates\bin\Debug\chromedriver.exe
